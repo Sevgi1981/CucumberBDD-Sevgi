@@ -69,7 +69,7 @@ Feature: We are testing background keyword in this file
     Then The user wants to add new nationalities as "<Nationalities>"
 
     #In the last step above, it will apply a different nationality each time it runs
-    #This scenario will run 8 times
+    #This scenario will run 8 times.
     Examples:
       |Nationalities|
       |Aramaic      |
